@@ -1,3 +1,0 @@
-/mnt/c/Users/timur/CLionProjects/set5_a3/build/CMakeFiles/set5_a3.dir
-/mnt/c/Users/timur/CLionProjects/set5_a3/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/timur/CLionProjects/set5_a3/build/CMakeFiles/rebuild_cache.dir
